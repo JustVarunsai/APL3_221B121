@@ -1,4 +1,5 @@
 class Icecream extends Offering
+    
 {
     int getPrice()
     {
